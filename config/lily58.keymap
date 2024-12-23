@@ -101,7 +101,7 @@
             bindings = <
 &kp F12    &kp F11   &kp F10    &kp F9       &kp F8      &kp F7                           &trans       &trans     &trans        &trans     &trans        &trans
 &kp GRAVE  &kp N1    &kp N2     &kp N3       &kp N4      &kp N5                           &kp N6       &kp N7     &kp UP_ARROW  &kp N9     &kp N0        &trans
-&kp F12    &kp HASH  &kp EQUAL  &kp PERCENT  &kp DOLLAR  &kp AT_SIGN                      &trans       &kp LEFT   &kp DOWN      &kp RIGHT  &kp ASTERISK  &trans
+&kp DEL    &kp HASH  &kp EQUAL  &kp PERCENT  &kp DOLLAR  &kp AT_SIGN                      &trans       &kp LEFT   &kp DOWN      &kp RIGHT  &kp ASTERISK  &trans
 &kp F6     &kp F5    &kp F4     &kp F3       &kp F2      &kp F1       &kp HASH    &trans  &kp KP_PLUS  &kp MINUS  &kp EQUAL     &kp LBKT   &kp RBKT      &kp BSLH
                                 &trans       &trans      &trans       &trans      &trans  &trans       &trans     &trans
             >;

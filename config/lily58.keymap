@@ -68,7 +68,6 @@
                                &lt 3 LC(C)  &lt 2 LC(DOLLAR)  &kp LCTRL  &lt 1 SPACE         &lt 2 ENTER        &kp RCTRL  &kp RIGHT_ALT  &lt 2 LC(V)
             >;
 
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
 
         lower_layer {
@@ -87,7 +86,6 @@
                                                  &trans             &trans        &trans        &trans              &trans      &trans                &trans         &trans
             >;
 
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
 
         raise_layer {
@@ -106,7 +104,6 @@
                                 &trans       &trans      &trans       &trans      &trans  &trans       &trans     &trans
             >;
 
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
 
         layer_3 {
